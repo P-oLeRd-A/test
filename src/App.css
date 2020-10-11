@@ -2,6 +2,7 @@
   text-align: center;
   border: solid red;
   background-color: royalblue;
+  color: khaki;
 }
 
 .App-logo {
@@ -43,4 +44,9 @@
   /*margin-top: 25px;*/
   text-align: center;
   padding: 0%;
+}
+
+.Colorone{
+  background-color: peru;
+  color: aquamarine;
 }
